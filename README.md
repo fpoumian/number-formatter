@@ -3,6 +3,10 @@ Number Formatter
 
 A small library that adds commas to numbers
 
+[![Build Status](https://travis-ci.org/fpoumian/number-formatter.svg?branch=master)](https://travis-ci.org/fpoumian/number-formatter)
+
+[![Coverage Status](https://coveralls.io/repos/github/fpoumian/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/fpoumian/number-formatter?branch=master)
+
 ## Installation
 
   `npm install @fpoumian/number-formatter`
