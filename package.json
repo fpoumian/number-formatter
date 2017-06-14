@@ -1,0 +1,35 @@
+{
+  "name": "@fpoumian/number-formatter",
+  "version": "0.0.1",
+  "description": "A small library that adds commas to numbers.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpoumian/number-formatter.git"
+  },
+  "keywords": [
+    "number",
+    "formatter"
+  ],
+  "author": "Fernando Poumian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fpoumian/number-formatter/issues"
+  },
+  "homepage": "https://github.com/fpoumian/number-formatter#readme"
+}
